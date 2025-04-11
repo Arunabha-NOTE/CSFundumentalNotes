@@ -23,3 +23,5 @@
 
 8. **Serialization**  
    In order. Usually used to convert something into a common language, for example, `JSON.stringify()`.
+
+([Source](https://www.youtube.com/watch?v=4Zc9ci9L5wY))
